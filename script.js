@@ -14,6 +14,8 @@ let groceryList = [
   ];
   
   // First, check the above array to see if it is an array using the static method
+
+  console.log(groceryList.
   
   // 1
   // Create a NEW array with the name "fruitList" that contains the first 3 elements in groceryList without changing the groceryList array. Print both fruitList and groceryList to the console.
